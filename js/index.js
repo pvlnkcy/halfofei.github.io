@@ -220,7 +220,7 @@ function displayCute(container) {
 
      setTimeout(function() {
         textAboveImage.style.visibility = "visible";
-    }, 3500); // Ganti angka sesuai durasi animasi pop up
+    }, 2000); // Ganti angka sesuai durasi animasi pop up
 
      // Menerapkan animasi pop up
     var imgElement = container.querySelector('img');

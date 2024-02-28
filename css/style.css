@@ -97,7 +97,7 @@ img {
     transform: translateX(-50%);
     color:#dbaeaf; /* Warna teks */
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px; /* Ukuran teks */
+    font-size: 30px; /* Ukuran teks */
     visibility: hidden;
 }
 
@@ -128,6 +128,6 @@ img {
 }
 
 .explode {
-    animation: explode 3s ease-in-out forwards;
-    animation-delay: 4s; /* Tunda ledakan 3 detik setelah pop up */
+    animation: explode 2s ease-in-out forwards;
+    animation-delay: 3s; /* Tunda ledakan 3 detik setelah pop up */
 }
