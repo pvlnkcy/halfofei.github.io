@@ -123,7 +123,7 @@ function displayMeme(container) {
  
      // Teks yang sesuai dengan input
      var textMap = {
-         "1": "LOL",
+         "1": "Meme-mu hari ini:",
          "2": "Proud of You!",
          // Tambahkan kunci dan teks yang sesuai untuk input lainnya di sini
      };
